@@ -1,3 +1,9 @@
+# Source code (not tracked in this repo)
+*.cpp
+*.h
+*.pro
+*.json
+
 # Build artifacts
 *.o
 *.a
