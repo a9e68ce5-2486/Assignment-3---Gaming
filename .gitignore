@@ -1,0 +1,19 @@
+# Build artifacts
+*.o
+*.a
+Makefile
+.qmake.stash
+moc_*.cpp
+moc_predefs.h
+qrc_*.cpp
+
+# App bundle
+*.app/
+
+# OS
+.DS_Store
+
+# Qt Creator
+*.pro.user
+*.pro.user.*
+CMakeLists.txt.user
