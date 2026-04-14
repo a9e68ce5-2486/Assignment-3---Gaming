@@ -95,7 +95,11 @@ Assignment3/
 ---
 
 ## Team
-> Add team member names here.
+
+| Name | GitHub |
+|------|--------|
+| Sheng-Hung Tseng | [@a9e68ce5-2486](https://github.com/a9e68ce5-2486) |
+| Min-Shan Lee | — |
 
 ---
 

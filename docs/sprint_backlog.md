@@ -57,15 +57,15 @@
 | Write SRS | Team | 2h | Done |
 | Draw UML class diagram | Team | 2h | Done |
 | Define sprint backlog | Team | 1h | Done |
-| Implement `User` + `ScoreEntry` (model) | Dev A | 2h | Done |
-| Implement `UserDatabase` (JSON I/O) | Dev A | 2h | Done |
-| Implement `AuthManager` (sign up/in/out) | Dev B | 2h | Done |
-| Implement `LoginScreen` UI | Dev B | 2h | Done |
-| Implement `SignUpScreen` UI | Dev B | 3h | Done |
-| Implement `HomeScreen` UI | Dev A | 2h | Done |
-| Implement `ProfileScreen` UI | Dev A | 2h | Done |
-| Implement `MainWindow` (navigation) | Dev B | 2h | Done |
-| Styling (`styles.h` dark theme) | Dev A | 1h | Done |
+| Implement `User` + `ScoreEntry` (model) | Sheng-Hung Tseng | 2h | Done |
+| Implement `UserDatabase` (JSON I/O) | Sheng-Hung Tseng | 2h | Done |
+| Implement `AuthManager` (sign up/in/out) | Min-Shan Lee | 2h | Done |
+| Implement `LoginScreen` UI | Min-Shan Lee | 2h | Done |
+| Implement `SignUpScreen` UI | Min-Shan Lee | 3h | Done |
+| Implement `HomeScreen` UI | Sheng-Hung Tseng | 2h | Done |
+| Implement `ProfileScreen` UI | Sheng-Hung Tseng | 2h | Done |
+| Implement `MainWindow` (navigation) | Min-Shan Lee | 2h | Done |
+| Styling (`styles.h` dark theme) | Sheng-Hung Tseng | 1h | Done |
 | Integration & testing Sprint 1 | Both | 2h | Done |
 
 **Sprint 1 Velocity: ~27 story points**
@@ -85,19 +85,19 @@
 
 | Task | Owner | Est. Hours | Status |
 |------|-------|-----------|--------|
-| Implement `Disc` class (type, points, markHit) | Dev A | 2h | Done |
-| Implement `GameScene` HUD setup | Dev B | 2h | Done |
-| Implement spawn timer + disc scrolling | Dev B | 3h | Done |
-| Implement mouse-click shooting | Dev B | 2h | Done |
-| Implement 60-second game timer + end game | Dev A | 2h | Done |
-| Implement level system (speed/spawn rate) | Dev A | 1h | Done |
-| Implement game-over overlay | Dev B | 1h | Done |
-| Implement floating score popups | Dev A | 1h | Done |
-| Implement 3-lives system (miss = -1 life) | Dev A | 1h | Done |
-| Implement dual end condition (time or lives = 0) | Dev A | 1h | Done |
-| Lives HUD (❤/♡) + time warning color | Dev A | 1h | Done |
-| Implement restart confirmation dialog (Y/N) | Dev B | 1h | Done |
-| Connect game score to user profile | Dev B | 1h | Done |
+| Implement `Disc` class (type, points, markHit) | Sheng-Hung Tseng | 2h | Done |
+| Implement `GameScene` HUD setup | Min-Shan Lee | 2h | Done |
+| Implement spawn timer + disc scrolling | Min-Shan Lee | 3h | Done |
+| Implement mouse-click shooting | Min-Shan Lee | 2h | Done |
+| Implement 60-second game timer + end game | Sheng-Hung Tseng | 2h | Done |
+| Implement level system (speed/spawn rate) | Sheng-Hung Tseng | 1h | Done |
+| Implement game-over overlay | Min-Shan Lee | 1h | Done |
+| Implement floating score popups | Sheng-Hung Tseng | 1h | Done |
+| Implement 3-lives system (miss = -1 life) | Sheng-Hung Tseng | 1h | Done |
+| Implement dual end condition (time or lives = 0) | Sheng-Hung Tseng | 1h | Done |
+| Lives HUD (❤/♡) + time warning color | Sheng-Hung Tseng | 1h | Done |
+| Implement restart confirmation dialog (Y/N) | Min-Shan Lee | 1h | Done |
+| Connect game score to user profile | Min-Shan Lee | 1h | Done |
 | End-to-end testing (auth → game → history) | Both | 3h | Done |
 | Final bug fixes and polish | Both | 2h | Done |
 

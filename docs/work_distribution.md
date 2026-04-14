@@ -4,10 +4,8 @@
 
 | Member | Role |
 |--------|------|
-| Dev A | Data layer, home/profile UI, game timer & level logic |
-| Dev B | Auth logic, login/signup UI, game scene core, navigation |
-
-> Replace "Dev A / Dev B" with actual team member names before submission.
+| Sheng-Hung Tseng | Data layer, home/profile UI, game timer & level logic |
+| Min-Shan Lee | Auth logic, login/signup UI, game scene core, navigation |
 
 ---
 
@@ -15,16 +13,16 @@
 
 | Component | File(s) | Owner |
 |-----------|---------|-------|
-| Data model | `user.h`, `user.cpp` | Dev A |
-| JSON persistence | `userdatabase.h`, `userdatabase.cpp` | Dev A |
-| Auth business logic | `authmanager.h`, `authmanager.cpp` | Dev B |
-| Login screen | `loginscreen.h`, `loginscreen.cpp` | Dev B |
-| Sign-up screen | `signupscreen.h`, `signupscreen.cpp` | Dev B |
-| Home screen | `homescreen.h`, `homescreen.cpp` | Dev A |
-| Profile screen | `profilescreen.h`, `profilescreen.cpp` | Dev A |
-| UI styling | `styles.h` | Dev A |
+| Data model | `user.h`, `user.cpp` | Sheng-Hung Tseng |
+| JSON persistence | `userdatabase.h`, `userdatabase.cpp` | Sheng-Hung Tseng |
+| Auth business logic | `authmanager.h`, `authmanager.cpp` | Min-Shan Lee |
+| Login screen | `loginscreen.h`, `loginscreen.cpp` | Min-Shan Lee |
+| Sign-up screen | `signupscreen.h`, `signupscreen.cpp` | Min-Shan Lee |
+| Home screen | `homescreen.h`, `homescreen.cpp` | Sheng-Hung Tseng |
+| Profile screen | `profilescreen.h`, `profilescreen.cpp` | Sheng-Hung Tseng |
+| UI styling | `styles.h` | Sheng-Hung Tseng |
 | SRS document | `docs/SRS.md` | Both |
-| UML diagram | `docs/UML.md` | Dev B |
+| UML diagram | `docs/UML.md` | Min-Shan Lee |
 | Sprint backlog | `docs/sprint_backlog.md` | Both |
 | Work distribution | `docs/work_distribution.md` | Both |
 
@@ -34,22 +32,22 @@
 
 | Component | File(s) | Owner |
 |-----------|---------|-------|
-| Disc game object | `disc.h`, `disc.cpp` | Dev A |
-| Game scene (HUD, overlay) | `gamescene.h`, `gamescene.cpp` | Dev B |
-| Spawn / scroll timers | (inside `gamescene.cpp`) | Dev B |
-| Mouse shooting + hit logic | (inside `gamescene.cpp`) | Dev B |
-| 60-second game timer | (inside `gamescene.cpp`) | Dev A |
-| Level-up system | (inside `gamescene.cpp`) | Dev A |
-| Game-score save to profile | (inside `mainwindow.cpp`) | Dev A |
-| Main window + navigation | `mainwindow.h`, `mainwindow.cpp` | Dev B |
-| Project file | `gaming_framework.pro` | Dev B |
+| Disc game object | `disc.h`, `disc.cpp` | Sheng-Hung Tseng |
+| Game scene (HUD, overlay) | `gamescene.h`, `gamescene.cpp` | Min-Shan Lee |
+| Spawn / scroll timers | (inside `gamescene.cpp`) | Min-Shan Lee |
+| Mouse shooting + hit logic | (inside `gamescene.cpp`) | Min-Shan Lee |
+| 60-second game timer | (inside `gamescene.cpp`) | Sheng-Hung Tseng |
+| Level-up system | (inside `gamescene.cpp`) | Sheng-Hung Tseng |
+| Game-score save to profile | (inside `mainwindow.cpp`) | Sheng-Hung Tseng |
+| Main window + navigation | `mainwindow.h`, `mainwindow.cpp` | Min-Shan Lee |
+| Project file | `gaming_framework.pro` | Min-Shan Lee |
 | Integration & end-to-end testing | All | Both |
 
 ---
 
 ## Responsibility Matrix (RACI)
 
-| Task | Dev A | Dev B |
+| Task | Sheng-Hung Tseng | Min-Shan Lee |
 |------|-------|-------|
 | Requirements gathering | R | R |
 | Architecture / class design | C | R |
