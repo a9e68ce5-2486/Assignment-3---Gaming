@@ -139,3 +139,9 @@ User data (`users.json`) schema:
 - No external libraries beyond Qt 5.x standard modules
 - Must compile with `qmake` and the existing Anaconda Qt 5.15.2 environment
 - No network features in scope for this assignment
+
+---
+
+## 7. Repository
+
+🔗 **https://github.com/a9e68ce5-2486/Assignment-3---Gaming**

@@ -99,4 +99,10 @@ Assignment3/
 
 ---
 
+## Repository
+
+🔗 **https://github.com/a9e68ce5-2486/Assignment-3---Gaming**
+
+---
+
 *Built with Qt 5.15.2 · C++14 · CS6015 Spring 2026*

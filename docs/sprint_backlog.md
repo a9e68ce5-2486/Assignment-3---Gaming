@@ -110,3 +110,9 @@
 - Feature behaves correctly in manual testing
 - Score data persists correctly to `users.json`
 - UI matches dark theme style guide
+
+---
+
+## Repository
+
+🔗 **https://github.com/a9e68ce5-2486/Assignment-3---Gaming**

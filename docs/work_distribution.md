@@ -70,3 +70,9 @@
 - Feature branches: `feature/auth`, `feature/game`, etc.
 - Merge to `main` via pull request after peer review
 - Commit messages follow: `[Sprint N] short description`
+
+---
+
+## Repository
+
+🔗 **https://github.com/a9e68ce5-2486/Assignment-3---Gaming**
