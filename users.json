@@ -1,0 +1,65 @@
+[
+    {
+        "dateOfBirth": "2000-07-21",
+        "firstName": "victor",
+        "gender": "Male",
+        "lastName": "Tseng",
+        "passwordHash": "a625144aee8c7f92f0c0ccef5a44ef503fe2c1fc4cfb71e27a532a623c2c7d5e",
+        "profilePicturePath": "",
+        "scoreHistory": [
+            {
+                "gameName": "ShootingH",
+                "score": 75,
+                "timestamp": "2026-04-13T01:02:55"
+            }
+        ],
+        "username": "victor"
+    },
+    {
+        "dateOfBirth": "2000-01-01",
+        "firstName": "alan",
+        "gender": "Prefer not to say",
+        "lastName": "w",
+        "passwordHash": "2ef7b4883460b75c0d43697d80ae14da6ec17e4b0694057fa4874b472a5f573a",
+        "profilePicturePath": "",
+        "scoreHistory": [
+            {
+                "gameName": "ShootingH",
+                "score": 61,
+                "timestamp": "2026-04-20T23:41:35"
+            },
+            {
+                "gameName": "ShootingH",
+                "score": 85,
+                "timestamp": "2026-04-20T23:42:09"
+            },
+            {
+                "gameName": "ShootingH",
+                "score": 59,
+                "timestamp": "2026-04-20T23:42:45"
+            }
+        ],
+        "username": "yukw"
+    },
+    {
+        "dateOfBirth": "2000-01-05",
+        "firstName": "vera",
+        "gender": "Prefer not to say",
+        "lastName": "l",
+        "passwordHash": "2ef7b4883460b75c0d43697d80ae14da6ec17e4b0694057fa4874b472a5f573a",
+        "profilePicturePath": "",
+        "scoreHistory": [
+            {
+                "gameName": "ShootingH",
+                "score": 40,
+                "timestamp": "2026-04-21T09:54:29"
+            },
+            {
+                "gameName": "ShootingH",
+                "score": 73,
+                "timestamp": "2026-04-21T09:54:54"
+            }
+        ],
+        "username": "veral"
+    }
+]
