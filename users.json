@@ -1,0 +1,18 @@
+[
+    {
+        "dateOfBirth": "2000-07-21",
+        "firstName": "victor",
+        "gender": "Male",
+        "lastName": "Tseng",
+        "passwordHash": "a625144aee8c7f92f0c0ccef5a44ef503fe2c1fc4cfb71e27a532a623c2c7d5e",
+        "profilePicturePath": "",
+        "scoreHistory": [
+            {
+                "gameName": "ShootingH",
+                "score": 75,
+                "timestamp": "2026-04-13T01:02:55"
+            }
+        ],
+        "username": "victor"
+    }
+]
